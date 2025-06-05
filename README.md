@@ -4,7 +4,7 @@ Welcome to Circular Object Recognition, a MATLAB-based image processing project 
 
 🎯 Project Objective :
 
-The primary goal of this project is to accurately detect circular objects from visual input using image processing techniques in MATLAB. It aims to filter out non-circular shapes, enhance image clarity, and deliver reliable detection in real-time or from static images.
+The primary goal of this project is to accurately detect circular objects from visual input using image processing techniques in MATLAB. It aims to filter out non-circular shapes and overlapping circles, enhance image clarity, and deliver reliable detection in real-time or from static images.
 
 🧠 Key Features :
 
